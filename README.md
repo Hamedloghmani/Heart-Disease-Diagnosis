@@ -10,5 +10,6 @@ This project is in developement phase and it will be updated regularly by adding
 
 ## Implemented Algorithms
 * 1 - Logistic Regression
-* Next : KNN
+* 2 - KNN
+* Next : SVM
 
