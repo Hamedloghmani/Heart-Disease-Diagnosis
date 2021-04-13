@@ -11,5 +11,7 @@ This project is in developement phase and it will be updated regularly by adding
 ## Implemented Algorithms
 * 1 - Logistic Regression
 * 2 - KNN
-* Next : SVM
+* 3 - SVM
+* 4 - Random Forest
+* Next : Decision Tree Algorithm
 
