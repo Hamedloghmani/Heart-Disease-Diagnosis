@@ -12,5 +12,6 @@ This project is in developement phase and it will be updated regularly by adding
 * 1 - Logistic Regression
 * 2 - KNN
 * 3 - SVM
-* Next : Random Forest
+* 4 - Random Forest
+* Next : Decision Tree Algorithm
 
