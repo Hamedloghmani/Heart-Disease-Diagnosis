@@ -4,8 +4,7 @@
 
 
 ## General Information
-The main motivation behind this project is educational purposes.
-This project is in developement phase and it will be updated regularly by adding new learning algorithms to the project.
+The main motivation behind this project and samples is educational purposes.
 
 
 ## Implemented Algorithms
@@ -13,5 +12,5 @@ This project is in developement phase and it will be updated regularly by adding
 * 2 - KNN
 * 3 - SVM
 * 4 - Random Forest
-* Next : Decision Tree Algorithm
+* 5 - Decision Tree 
 
